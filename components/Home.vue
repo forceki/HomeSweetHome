@@ -1,8 +1,8 @@
 <template>
-    <v-app dark>
+    <v-app>
         <v-main>
             <v-container fluid>
-                testing
+                home
             </v-container>
         </v-main>
     </v-app>

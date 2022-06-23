@@ -1,5 +1,8 @@
 <template>
+<v-app>
+  <navbar />
   <Home />
+</v-app>
 </template>
 
 <script>
